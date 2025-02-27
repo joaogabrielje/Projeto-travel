@@ -19,4 +19,8 @@ nav ul li:last-child img{
   height: 40px;
 }
 
+img{
+  border-radius: 50%;
+}
+
 
